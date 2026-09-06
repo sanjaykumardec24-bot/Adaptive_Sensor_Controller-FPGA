@@ -242,25 +242,6 @@ The FPGA physical resources include:
 
 ---
 
-## Project Structure
-
-```text
-adaptive-sensor-controller-fpga/
-│
-├── src/
-│   └── adaptive_sensor_controller.v
-│
-├── sim/
-│   └── adaptive_sensor_controller_tb.v
-│
-├── constraints/
-│   └── adaptive_sensor_controller.xdc
-│
-└── README.md
-```
-
----
-
 ## Tools Used
 
 - Verilog HDL
