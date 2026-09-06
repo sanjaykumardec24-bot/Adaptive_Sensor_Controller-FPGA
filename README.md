@@ -332,7 +332,7 @@ This project demonstrates a complete RTL-to-FPGA workflow for an adaptive sensor
 
 ## Author
 
-**Sanjay Kumar**
+**SANJAY KUMAR S S**
 
 Interests:
 
